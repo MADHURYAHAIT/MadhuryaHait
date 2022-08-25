@@ -55,6 +55,6 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MADHURYAHAIT&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
   
-  <img src ="https://i.imgflip.com/63h626.png" width=200/>
+  Check my repo for my projects.
   
   </div>
