@@ -1,8 +1,8 @@
-
+<h1 align="center">A big Hi from Madhurya👋🏻</h1>
 
 <div id="header" align="center">
-<img src="https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png">
-<h3 align="center">A big Hi from Madhurya,<br> I'm a passionate frontend developer from India with big dreams and a strong believer of</h3>
+<img src="https://github.com/MADHURYAHAIT/MadhuryaHait/blob/3bf471efde12348f861e8f14ea089e604eba034e/a.jpg">
+<h3 align="center"> I'm a passionate frontend developer from India with big dreams and a strong believer of</h3>
 
 <h4> “The people who are crazy enough to think they can change the world are the ones who do.”</h4>
 
