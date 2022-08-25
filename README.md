@@ -1,4 +1,4 @@
-<h1 align="center">A big Hi from Madhurya👋🏻</h1>
+<h1 align="center">A big Hi from Madhurya 👋🏻</h1>
 
 <div id="header" align="center">
 <img src="https://github.com/MADHURYAHAIT/MadhuryaHait/blob/3bf471efde12348f861e8f14ea089e604eba034e/a.jpg">
@@ -38,7 +38,7 @@
   About me
 </h3>
 <p align="centre">
-  This is Madhurya Hait 19 years old ambitious coder and developer based in India. I'm ready to work on any web or app developement or any AI related projects.
+  This is Madhurya Hait 19 years old ambitious coder and developer based in India. I'm ready to work on any web or app developement or any AI related projects. 
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
