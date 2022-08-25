@@ -38,7 +38,7 @@
   About me
 </h3>
 <p align="centre">
-  This is Madhurya Hait 19 years old ambitious coder and developer based in India. I'm ready to work on any web or app developement or any AI related projects. 
+  This is Madhurya Hait 19 years old ambitious coder and developer based in India. I'm curently a University student learning AI and Data Scienece. I'm ready to work on any web or app developement or any AI related projects. 
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
