@@ -54,7 +54,10 @@
 ![](https://github-readme-stats.vercel.app/api?username=MADHURYAHAIT&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MADHURYAHAIT&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-  
-  Check my repo for my projects.
+<br>
+ <h2> Check my repo for projects.</h2>
+  <img src ="pic.png" width = 180/><br>
+  Nice meeting you
+
   
   </div>
