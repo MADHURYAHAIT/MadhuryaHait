@@ -57,7 +57,7 @@
 <br>
  <h2> Check my repo for projects.</h2>
   <img src ="pic.png" width = 180/><br>
-  Nice meeting you
+  Nice meeting you :)
 
   
   </div>
