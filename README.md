@@ -2,6 +2,7 @@
 
 <div id="header" align="center">
 <img src="https://github.com/MADHURYAHAIT/MadhuryaHait/blob/5b80cd235ea4d93b1a8e6431bb890fde9b98e96f/image.png">
+  <br>
   <hr>
 <h3 align="center"> I'm a passionate front end developer from India 🇮🇳 with big dreams and a strong believer of</h3>
 
