@@ -20,7 +20,7 @@
 
 - 🌱 I’m currently learning **full stack dev, ML, Js**
 
-- 📫  <a href="haitmadhurya@gmail.com"> Email ME </a>
+- 📫  <a href="haitmadhurya@gmail.com"> Email ME  </a>
 
 - ⚡ Fun fact **I'm a coder at daylight and a singer and music producer at moonlight!!**
 
