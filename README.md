@@ -10,7 +10,7 @@
  &
   <h4>“Don’t let the noise of others’ opinions drown out your own inner voice.”</h4>
 
-  <img src = "https://c.tenor.com/8RkyVXzR3MMAAAAM/thoda-serious-seriously.gif" width =180/>
+   <img src = "https://c.tenor.com/8RkyVXzR3MMAAAAM/thoda-serious-seriously.gif" width =180/>
 
 
   
