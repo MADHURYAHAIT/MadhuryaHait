@@ -8,7 +8,7 @@
 
 <h4> “Your time is limited, so don’t waste it living someone else’s life.”</h4>
  &
-  <h4>“Don’t let the noise of others’ opinions drown out your own inner voice.”</h4>
+  <h4>“Don’t let the noise of others’ opinions drown out your own inner voice. ”</h4>
 
    <img src = "https://c.tenor.com/8RkyVXzR3MMAAAAM/thoda-serious-seriously.gif" width =180/>
 
