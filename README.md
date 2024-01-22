@@ -11,18 +11,18 @@
   <h4>“Don’t let the noise of others’ opinions drown out your own inner voice. ”</h4>
 
     npm install life
-</div>
-</div>
 
-
-- 🌱 I’m currently learning **full stack dev, ML, Js**
-
-- 📫  <a href="haitmadhurya@gmail.com"> Email ME  </a>
-
-- ⚡ Fun fact **I'm a coder at daylight and a singer and music producer at moonlight!!**
-
-## 🌐 Socials:
+## ♥️ Follow Me:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/madhuryahait) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/madhuryahait) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@haitmadhurya) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@mxdyofficial) 
+</div>
+
+</div>
+
+
+# 💫 About Me:
+🔭 I’m currently working on a cool site.<br>👯 I’m looking to collaborate on my classbook<br>🌱 I’m currently learning Backend programming<br>💬 Connect with me on Linkdin<br>⚡ Fun fact : I'm also a singer Songwriter
+
+
 <hr>
 
 <h3 align ="centre">
@@ -31,21 +31,10 @@
 <p align="centre">
   This is Madhurya Hait 👋🏻 19 years old ambitious coder and developer based in India. I'm currently a University 👨🏻‍🎓 student learning AI and Data Scienece. I'm ready to work on any web or app developement or any AI related projects.📗 
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-<hr>
+<hr/>
 
 
-<div id="header" align="center">
-  
-![](https://github-readme-stats.vercel.app/api?username=MADHURYAHAIT&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MADHURYAHAIT&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-<br>
- <h2> Check my repos for projects.</h2>
-  <img src ="pic.png" width = 180/><br>
-  Nice meeting you :)
 
 
 
@@ -60,8 +49,6 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=MADHURYAHAIT&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=MADHURYAHAIT&limit=5&theme=dark&combine_all_yearly_contributions=true)
