@@ -1,7 +1,7 @@
 <h1  align="center"> A big Hello from Madhurya   ☺️  </h1>
  
 <div id="header" align="center">
-<img src="https://github.com/MADHURYAHAIT/MadhuryaHait/blob/5b80cd235ea4d93b1a8e6431bb890fde9b98e96f/image.png">
+  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
    <br>
   <hr>
 <h3 align="center"> I'm a passionate front end developer from India 🇮🇳 with big dreams and a strong believer of </h3>
@@ -77,8 +77,6 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=MADHURYAHAIT&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
   
   </div>
