@@ -1,19 +1,16 @@
 <h1  align="center"> A big Hello from Madhurya   ☺️  </h1>
- 
+
 <div id="header" align="center">
-  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
-   <br>
-  <hr>
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+
 <h3 align="center"> I'm a passionate front end developer from India 🇮🇳 with big dreams and a strong believer of </h3>
 
 <h4> “Your time is limited, so don’t waste it living someone else’s life.”</h4>
  &
   <h4>“Don’t let the noise of others’ opinions drown out your own inner voice. ”</h4>
 
-   <img src = "https://c.tenor.com/8RkyVXzR3MMAAAAM/thoda-serious-seriously.gif" width =180/>
-
- 
-  
+    npm install life
 </div>
 </div>
 
@@ -24,16 +21,8 @@
 
 - ⚡ Fun fact **I'm a coder at daylight and a singer and music producer at moonlight!!**
 
-<hr>
-
-
- <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/hait_madhurya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hait_madhurya" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/madhurya-hait-32642023a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="madhurya hait" height="30" width="40" /></a>
-<a href="https://instagram.com/madhuryahait" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="madhuryahait" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/mxdyofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mxdy" height="30" width="40" /></a>
-</p>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/madhuryahait) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/madhuryahait) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@haitmadhurya) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@mxdyofficial) 
 <hr>
 
 <h3 align ="centre">
