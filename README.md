@@ -8,8 +8,10 @@
 
     https://madhuryahait.github.io/portfolio/
 
-## ♥️ Follow Me:
+## ♥️ Connect To Me:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/madhuryahait) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/madhuryahait) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@haitmadhurya) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@mxdyofficial) 
+
+
 
 # 💫 About Me:
 👋🏻 21 years old ambitious coder & developer based in India.<br>
