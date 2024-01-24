@@ -4,13 +4,14 @@
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
+## ♥️ Follow Me:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/madhuryahait) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/madhuryahait) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@haitmadhurya) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@mxdyofficial) 
 
 # 💫 About Me:
 👋🏻 21 years old ambitious coder & developer based in India.<br>
 🔭 I’m currently working on a cool site.<br>👯 I’m looking to collaborate on my classbook<br>🌱 I’m currently learning Backend programming<br>💬 Connect with me on Linkdin<br>⚡ Fun fact : I'm also a singer Songwriter
 
-## ♥️ Follow Me:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/madhuryahait) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/madhuryahait) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@haitmadhurya) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@mxdyofficial) 
+
 
 </div>
 
@@ -27,7 +28,6 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MADHURYAHAIT&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MADHURYAHAIT&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 
     npm install life
