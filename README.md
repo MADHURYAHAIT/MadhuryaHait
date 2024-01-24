@@ -16,6 +16,11 @@
 </div>
 
 </div>
+
+<div id="header" align="center">
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=MADHURYAHAIT&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 <hr/>
 
 # 💻 Tech Stack:
@@ -30,9 +35,6 @@
 ![](https://github-profile-trophy.vercel.app/?username=MADHURYAHAIT&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
 
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=MADHURYAHAIT&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-
+</div>
   
   </div>
