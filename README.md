@@ -1,6 +1,4 @@
 <h1  align="center"> A big Hello from Madhurya <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /></h1>  
-
-
 <div id="header" align="center">
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
@@ -17,7 +15,6 @@
 # 💫 About Me:
 👋🏻 21 years old ambitious coder & developer based in India.<br>
 🔭 I’m currently working on a cool site.<br>👯 I’m looking to collaborate on my classbook<br>🌱 I’m currently learning Backend programming<br>💬 Connect with me on Linkdin<br>⚡ Fun fact : I'm also a singer Songwriter
-
 
 
 </div>
