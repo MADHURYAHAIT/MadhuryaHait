@@ -17,7 +17,7 @@
 🔭 I’m currently working on a cool site.<br>👯 I’m looking to collaborate on my classbook<br>🌱 I’m currently learning Backend programming<br>💬 Connect with me on Linkdin<br>⚡ Fun fact : I'm also a singer Songwriter
 
 
-</div>
+ </div>
 
 </div>
 
