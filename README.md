@@ -19,6 +19,16 @@
 
  </div>
 
+ <div align="center"/> 
+
+  ## Here's my project that for the Google Solution CHallenge 2024 :
+
+<br/>
+
+
+https://github.com/MADHURYAHAIT/NutriSync/assets/101663118/7400f74f-e36b-4309-a3fd-0d47adf8f177
+</div>
+
 </div>
 
 <div id="header" align="center">
@@ -38,8 +48,3 @@
   
   </div>
 
- <div align="center"/> 
-Here's a cool project I made for the Google Solution CHallenge 2024 :
-
-https://github.com/MADHURYAHAIT/NutriSync/assets/101663118/7400f74f-e36b-4309-a3fd-0d47adf8f177
-</div>
