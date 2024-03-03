@@ -26,7 +26,7 @@
 <br/>
 
 
-https://github.com/MADHURYAHAIT/NutriSync/assets/101663118/7400f74f-e36b-4309-a3fd-0d47adf8f177
+https://github.com/MADHURYAHAIT/MadhuryaHait/assets/101663118/a0367e40-6503-4c36-ab9f-06b540cb328c
 </div>
 
 </div>
