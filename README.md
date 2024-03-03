@@ -21,12 +21,12 @@
 
  <div align="center"/> 
 
-  ## Here's my project that for the Google Solution CHallenge 2024 :
+  ## Here's my project that for the Google Solution Challenge 2024 :
 
 <br/>
 
 
-https://github.com/MADHURYAHAIT/MadhuryaHait/assets/101663118/a0367e40-6503-4c36-ab9f-06b540cb328c
+https://github.com/MADHURYAHAIT/MadhuryaHait/assets/101663118/89401b58-64e8-423c-ba97-9d808f0983ab
 </div>
 
 </div>
