@@ -40,4 +40,4 @@
 
 Here's a cool project I made for the Google Solution CHallenge 2024 :
 
-https://github.com/MADHURYAHAIT/NutriSync/assets/101663118/01144f1b-0773-40d5-9c04-63fdb92ce9f3
+https://github.com/MADHURYAHAIT/NutriSync/assets/101663118/7400f74f-e36b-4309-a3fd-0d47adf8f177
