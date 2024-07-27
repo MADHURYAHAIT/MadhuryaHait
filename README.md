@@ -1,4 +1,4 @@
-  <h1  align="center"> A big Hello from Madhurya <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" />  </h1>    
+  <h1  align="center"> A big Hello from Madhurya  <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" />  </h1>    
 <div id="header" align="center">    
  
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
