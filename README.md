@@ -46,7 +46,6 @@ https://github.com/MADHURYAHAIT/MadhuryaHait/assets/101663118/89401b58-64e8-423c
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MADHURYAHAIT&theme=dark&hide_border=false)<br/>
 
-
 </div>
 
 <img src="Github snake.svg" width="100%"/>
