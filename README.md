@@ -17,7 +17,7 @@
 
 
 
-# 💫 About Me:
+# 💫 About Me :
 👋🏻 21 years old ambitious coder & developer based in India.<br>
 🔭 I’m currently working on a cool site.<br>👯 I’m looking to collaborate <br>🌱 I’m currently learning SalesForce / CPQ <br>💬 Connect with me on Linkdin<br>⚡ Fun fact : I'm also a singer Songwriter
 
